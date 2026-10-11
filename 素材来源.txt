@@ -1,0 +1,17 @@
+PingTogether 素材来源
+
+LOL 问号、其他 Ping 图标及 WAV 音效取自公开社区项目：
+https://github.com/darrenprx/lolPing
+
+固定版本：86a0c4696d3d716d3da05f4e08a05587a7b9b651
+
+上游将这些素材标注为从 League of Legends 提取、权利归 Riot Games 所有。
+上游代码的 MIT 许可证不覆盖这些图标与音效。
+本项目与 Riot Games 无隶属关系，也未获得其背书。
+
+应用包 Contents/Resources/assets 内保留：
+manifest.json：每个素材的原始 URL、大小和 SHA-256 校验和。
+SOURCES.md：详细来源说明。
+UPSTREAM-LICENSE.txt：上游许可及素材归属说明。
+
+桌面轮盘、交互、强调底纹及动画由 PingTogether 原生实现。
